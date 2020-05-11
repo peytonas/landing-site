@@ -2,3 +2,8 @@
   max-height: 120px;
   max-width: 120px;
 }
+
+.width{
+  max-width: 95vw;
+  margin-left: 1vw;
+}

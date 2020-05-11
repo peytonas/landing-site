@@ -1,0 +1,9 @@
+.overflow{
+  max-height: 33vh;
+  overflow: scroll;
+}
+
+.project-img{
+  max-height: 250px;
+  max-width: 250px;
+}
